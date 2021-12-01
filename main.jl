@@ -1,5 +1,5 @@
 """
-For this assignment, I build RSA encryption. While it isn't the most secure RSA encryption (it is missing padding and is probably not using as
+For this project, I build RSA encryption. While it isn't the most secure RSA encryption (it is missing padding and is probably not using as
 large of numbers as possible), it has all the parts for RSA. It generates a public/private key pair through the steps: 
 
 1) Compute two prime numbers, p and q 
